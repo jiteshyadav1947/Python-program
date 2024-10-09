@@ -1,4 +1,4 @@
-#splite int,float,str from list
+#Splite int,float,str from list
 
 
 l=[1,2,3,4,4,5,6,7,8,"sudh","kumar",234,34.5,"abc"]
